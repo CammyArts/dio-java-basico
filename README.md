@@ -25,6 +25,7 @@ Alterando o conteudo de um arquivo de forma local
 porem existe exessão quando eu determino uma variavel 
 que eu não quero que não seja mudada.
 UPPERCASE separado com Underline
+
 final String BR = "Brasil<br>
 double PI = 3.14;<br>
 int ESTADOS_BRASILEIROS = 27<br>
@@ -46,6 +47,7 @@ Escopo de Pacote: Acessível apenas dentro do mesmo pacote, quando não especifi
 
 ## Estrutura da variavel:
 Tipo Nome = Atribuicao(opcional em alguns casos)
+<br>
 EX:<br>
 int idade = 23;
 double altura =1.62;
@@ -53,6 +55,15 @@ Dog spike; aqui a variavel spike não tem valor
 
 ## Declarando Metodos:
 TipoRetorno NomeObjetidoNoInfinitivo Parametro(s)
+<br>
 Ex:<br>
 int somar (int numeroUm, int numero2);
+<br>
+Infinitivo é o mesmo que, Ex:
+Calcular, Somar, Formatar, Incluir, Processar etc.
+<br>
+Ex:<br>
+String FormatarCep (long cep)
+![image](![print_nome](https://github.com/user-attachments/assets/ea390c5c-7043-4cc7-8ea4-75ea961507ca)
+)
 </div>
