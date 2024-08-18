@@ -66,4 +66,28 @@ Ex:<br>
 String FormatarCep (long cep)
 ![image](![print_nome](https://github.com/user-attachments/assets/ea390c5c-7043-4cc7-8ea4-75ea961507ca)
 )
+
+## Identação
+
+Basicamente indentar é um termo utilizado para escrever o código do programa de forma hierárquica, facilitando assim visualização e o entendimento do programa.
+<br>
+Atalho:<br>
+Shift+Alt+F 
+
+## Os Operadores de Comparação
+Os operadores de comparação em Java são:<br>
+
+== → Testa se dois valores são iguais.<br>
+!= → Verifica se dois valores são diferentes.<br>
+> → Determina se um valor é maior que o outro.<br>
+< → Verifica se um valor é menor que o outro.<br>
+>= → Testa se um valor é maior ou igual ao outro.<br>
+<= → Avalia se um valor é menor ou igual ao outro.<br>
+
+## Operadores Lógicos
+Além dos operadores de comparação, existem operadores lógicos que são frequentemente usados em conjunto com os operadores de comparação para formar condições mais complexas:<br>
+
+&& : Retorna verdadeiro se ambas as condições forem verdadeiras.<br>
+|| : Retorna verdadeiro se pelo menos uma das condições for verdadeira.<br>
+
 </div>
