@@ -77,12 +77,12 @@ Shift+Alt+F
 ## Os Operadores de Comparação
 Os operadores de comparação em Java são:<br>
 
-== → Testa se dois valores são iguais.<br>
-!= → Verifica se dois valores são diferentes.<br>
-> → Determina se um valor é maior que o outro.<br>
-< → Verifica se um valor é menor que o outro.<br>
->= → Testa se um valor é maior ou igual ao outro.<br>
-<= → Avalia se um valor é menor ou igual ao outro.<br>
+| == → Testa se dois valores são iguais.<br>
+| != → Verifica se dois valores são diferentes.<br>
+| > → Determina se um valor é maior que o outro.<br>
+| < → Verifica se um valor é menor que o outro.<br>
+| >= → Testa se um valor é maior ou igual ao outro.<br>
+| <= → Avalia se um valor é menor ou igual ao outro.<br>
 
 ## Operadores Lógicos
 Além dos operadores de comparação, existem operadores lógicos que são frequentemente usados em conjunto com os operadores de comparação para formar condições mais complexas:<br>
