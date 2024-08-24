@@ -29,8 +29,20 @@ UPPERCASE separado com Underline
 final String BR = "Brasil<br>
 double PI = 3.14;<br>
 int ESTADOS_BRASILEIROS = 27<br>
-int ANO_2000 = 2000<br>
+int ANO_2000 = 2000<br><br>
 
+Uma variavel deve ser clara, sem abreviações ou definição sem sentido;<br>
+Uma variavel é sempre no singular, exceto quando se referir a  um array ou coleção<br>
+Defina um idioma unico para suas variaveis. Se for declarar em inglês, defina todas em inglês.<br><br>
+
+❌Não é recomendado:<br>
+double salMedio = 1500.23 //variavel abreviada<br>
+String emails = "aluno@escola.com" //confuso por ter colocado "emails" no plural<br><br>
+
+✔Recomendado:<br>
+double salarioMedio=1500.23;
+String email="aluno@escola.com";
+String [] emails = {"aluno@escola.com","professor@escola.com"}
 
 ## Variaveis deve se iniciar: 
 👍com letra(minuscula), _ ou $ mas 
