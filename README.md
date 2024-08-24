@@ -77,12 +77,12 @@ Shift+Alt+F
 ## Os Operadores de Comparação
 Os operadores de comparação em Java são:<br>
 
-== → Testa se dois valores são iguais.<br>
-!= → Verifica se dois valores são diferentes.<br>
-> → Determina se um valor é maior que o outro.<br>
-< → Verifica se um valor é menor que o outro.<br>
->= → Testa se um valor é maior ou igual ao outro.<br>
-<= → Avalia se um valor é menor ou igual ao outro.<br>
+| == → Testa se dois valores são iguais.<br>
+| != → Verifica se dois valores são diferentes.<br>
+| > → Determina se um valor é maior que o outro.<br>
+| < → Verifica se um valor é menor que o outro.<br>
+| >= → Testa se um valor é maior ou igual ao outro.<br>
+| <= → Avalia se um valor é menor ou igual ao outro.<br>
 
 ## Operadores Lógicos
 Além dos operadores de comparação, existem operadores lógicos que são frequentemente usados em conjunto com os operadores de comparação para formar condições mais complexas:<br>
@@ -90,4 +90,26 @@ Além dos operadores de comparação, existem operadores lógicos que são frequ
 && : Retorna verdadeiro se ambas as condições forem verdadeiras.<br>
 || : Retorna verdadeiro se pelo menos uma das condições for verdadeira.<br>
 
+## Organizando arquivos
+A medida que nosso sistema vai evoluindo surgem novos arquivos(código fonte) em nossa estrutura de arquivos do projeto. Isso exige que seja realizado uma organização destes arquivos através de pacotes(packages).<br>
+comercial<br>
+com<br><br>
+organizacional<br>
+org<br><br>
+opensource<br>
+org ou opensource<br><br>
+Ex: HyperTech (nome da empresa)<br>
+com.hypertech.notification.<br><br>
+Ex_2: Lucas<br>
+edu.lucas.tema.<br>
+edu.lucas.primeirasemana<br>
+edu.lucas.segundasemana<br>
+edu=educação<br>
+## Criar pacotes ou subdiretórios no VsCode
+criar pasta com nome => "edu" e dar enter<br>
+nesta mesma pasta crirar pasta => "camila" e dar enter<br>
+nesta mesma pasta criar pasta=> "primeirasemana" e dar enter<br><br>
+Após isso arrastar o arquivo Java ate a pasta e acima do codigo vai aparecer:<br>
+package edu.camila.primeirasemana;<br>
+Também posso incrementar mais pastas em "camila" como "segundasemana" e por ai vai.
 </div>
