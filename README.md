@@ -77,7 +77,16 @@ Calcular, Somar, Formatar, Incluir, Processar etc.
 Ex:<br>
 String FormatarCep (long cep)
 ![image](![print_nome](https://github.com/user-attachments/assets/ea390c5c-7043-4cc7-8ea4-75ea961507ca)
-)
+)<br>
+Os métodos deverão ser nomeados como verbos, através de uma mistura de uma mistura de letras minusculas e maiusculas.Em princípio todas as letras que compõem o nome devem ser mantidas em minúsculo, com excerção da primeira letra de cada palavra composta a partir da segunda palavra.
+<br><br>
+🟡Exemplo sugeridos para nomeclatura de métodos:<br>
+somar(int n1, int n2){}<br>
+abrirConexao(){}<br>
+concluirProcessamento(){}<br>
+algumas bibliotecas eu vou chamar metodos em inglês porém o melhor é sempre ter a mesma lingua
+findById(int id){}
+calcularImprimir(){}//Esse metodos deveria ter apenas uma finalidade
 
 ## Identação
 
@@ -124,4 +133,7 @@ nesta mesma pasta criar pasta=> "primeirasemana" e dar enter<br><br>
 Após isso arrastar o arquivo Java ate a pasta e acima do codigo vai aparecer:<br>
 package edu.camila.primeirasemana;<br>
 Também posso incrementar mais pastas em "camila" como "segundasemana" e por ai vai.
+
+## Java Beans
+escrita do codigo de forma legivél;Com clareza
 </div>
