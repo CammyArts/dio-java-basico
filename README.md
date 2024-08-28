@@ -3,7 +3,12 @@ Repositório para armazenar todo o código do curso de java básico
 Alterando o conteudo de um arquivo de forma local
 <div align="center">
   
-# Estudos-Java-Web
+## Declaração de variáveis
+Variavél é uma identificação de um espaço em memória utilizado pelo nosso programa.Seguindo as convenções em linguagem de programação, toda variável é composta por: tipo de dados + identificação + valor atribuído.<br>
+
+A estrutura padrão para se declarar uma variável sempre é:<br>
+
+<Tipo <nomeVariavel> <atribuicaoDeValorOpcional>
 
 ### Tipos de variaveis
 ![image](https://github.com/user-attachments/assets/38463863-8ac8-4bac-9ac5-713e12b3e066)
@@ -76,8 +81,8 @@ Calcular, Somar, Formatar, Incluir, Processar etc.
 <br>
 Ex:<br>
 String FormatarCep (long cep)
-![image](![print_nome](https://github.com/user-attachments/assets/ea390c5c-7043-4cc7-8ea4-75ea961507ca)
-)<br>
+![print_nome](https://github.com/user-attachments/assets/ea390c5c-7043-4cc7-8ea4-75ea961507ca)
+<br>
 Os métodos deverão ser nomeados como verbos, através de uma mistura de uma mistura de letras minusculas e maiusculas.Em princípio todas as letras que compõem o nome devem ser mantidas em minúsculo, com excerção da primeira letra de cada palavra composta a partir da segunda palavra.
 <br><br>
 🟡Exemplo sugeridos para nomeclatura de métodos:<br>
@@ -136,4 +141,16 @@ Também posso incrementar mais pastas em "camila" como "segundasemana" e por ai 
 
 ## Java Beans
 escrita do codigo de forma legivél;Com clareza
+
+## Tipos de dados
+São tipos e são conhecidos como tipos primitivos:<br>
+int,byte,short,long,float,double,boolean, e char<br>
+esses tipos não sao considerados objetos, e portanto representam valores brutos.
+Eles são armazenados diretamente na pilha de memória(memory stack)
+![print_nome](https://2.bp.blogspot.com/_fHw7UbiXVVc/TJZVKcmkt6I/AAAAAAAAAAc/ylum-poBy5k/s1600/td.png)<br>
+byte,short,int e long => Tipos inteiros<br>
+int é o mais usados<br>
+float,double => Tipos fracionarios<br>
+double é o mais usado<br>
 </div>
+
