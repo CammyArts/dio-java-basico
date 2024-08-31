@@ -12,6 +12,8 @@ A estrutura padrão para se declarar uma variável sempre é:<br>
 
 ### Tipos de variaveis
 ![image](https://github.com/user-attachments/assets/38463863-8ac8-4bac-9ac5-713e12b3e066)
+<br>
+Java é uma linguagem altamente tipada ou seja cada variavel possui um tipo expecifico
   
 ## Estrutura de codigo em Java
 
@@ -69,6 +71,21 @@ EX:<br>
 int idade = 23;
 double altura =1.62;
 Dog spike; aqui a variavel spike não tem valor
+<br>
+
+## Variaveis Constantes:
+Uma variavel é uma area de memoria associada a um nome, que pode armazenar valores de um determinado tipo.Um tipo de dado define um conjunto de valores e um conjunto de operações.Java é uma linguagem com rigidez de tipos,diferente de linguagens como Javascrip, onde declarar o tipo da variavel não é obrigatorio.<br>
+Já as Constantes são valores armazenados em memória que não podem ser modificados depois de declarados. Em Java, esses valores são representados pela palavra reservada "final", seguida do topo.
+<br>
+Por convenção, Constantes são sempre escritas em CAIXA ALTA.<br>
+Ex de variavel que muda:<br>
+int numero = 5;<br>
+numero= 10;<br>
+<br><br>
+Ex de variavel final:
+final double VALOR_DE_PI = 3.14;
+
+No Java utilizamos
 
 ## Declarando Metodos:
 TipoRetorno NomeObjetidoNoInfinitivo Parametro(s)
