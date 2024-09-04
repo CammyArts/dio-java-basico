@@ -131,7 +131,34 @@ Os operadores de comparação em Java são:<br>
 Além dos operadores de comparação, existem operadores lógicos que são frequentemente usados em conjunto com os operadores de comparação para formar condições mais complexas:<br>
 
 && : Retorna verdadeiro se ambas as condições forem verdadeiras.<br>
-|| : Retorna verdadeiro se pelo menos uma das condições for verdadeira.<br>
+|| : Retorna verdadeiro se pelo menos uma das condições for verdadeira.<br><br>
+
+## Classificação dos operadores
+Atribuição<br>
+representado pelo simbolo de igualdade "="<br>
+O operador de atribuição é usado para definir o valor inicial ou sobrescrever o valor de uma variável.<br>
+Ex: <br>
+string nome = "GLEYSON";<br>
+int idade = 22;<br>
+double peso = 68.5;<br>
+char sexo = "M";<br>
+boolean doadorOrgao = false;<br>
+Date dataNascimento = new Date();<br>
+Aritméticos<br>
+O operador aritmético é utilizado para realizar operações matemáticas entre valores numéricos, podendo se tornar ou não uma expressão mais complexa.<br>
+São eles: + - * /<br>
+Ex:<br>
+double soma = 10.5 + 15.7;<br>
+int modulo = 18 % 3;// resto da divisão. Ele retorna o resto da divisão de dois números inteiros. <br>
+Esse operador é muito útil quando você precisa verificar se um número é divisível por outro ou quando está trabalhando com ciclos e padrões repetitivos. Por exemplo, para verificar se um número é par ou ímpar, você pode usar % 2. Se o resultado for 0, o número é par; caso contrário, é ímpar.<br>
+double resultado = (10*7)+(20/4);<br>
+💙O operador + em string será usado para "concatenação de textos".<br>
+String concatenacao ="?";<br>
+contatenacao = 1+1+1+ **"1"** ;//31<br>
+contatenacao = 1+ **"1"** +1+1;//1111<br>
+concatenacao = 1+ **"1"** +1+ **"1"** ;// 1111<br>
+concatenacao = **"1"** +1+1+1;//1111<br>
+concatenacao = **"1"** +(1+1+1);//13
 
 ## Organizando arquivos
 A medida que nosso sistema vai evoluindo surgem novos arquivos(código fonte) em nossa estrutura de arquivos do projeto. Isso exige que seja realizado uma organização destes arquivos através de pacotes(packages).<br>
