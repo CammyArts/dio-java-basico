@@ -2,7 +2,22 @@
 Repositório para armazenar todo o código do curso de java básico
 Alterando o conteudo de um arquivo de forma local
 <div align="center">
-  
+
+## Operadores
+Simbolos especiais que tem um significado próprio para a linguagem e estão associados a determinadas operações.<ber>
+Um programa é um conjunto de instruções lógicas que, quando executadas, produzem algum resultado.<br>
+É muito comum receber dados do usuário, prover alguma lógica para processálos e então apresentar o resultado desse procedimento.<br>
+<br>
+
+## Operador Unário
+Esses operadores são aplicados juntamente com um outro operador aritmético.Eles realizam alguns trabalhos básicos como incrementar, decrementar,inverter valores numéricos e booleanos.<br>
+(+)Operador unário positivo- os numeros são positivos sem esse operador explicitamente;<br>
+(-)Operador unário de valor negativo- nega um número ou expressão aritmética;<br>
+(++)Operador unário de incremento-incrementa o valor em 1 unidade;<br>
+(--)Operador de unário de decremento- decrementa o valor em 1 unidade;<br>
+(!)Operador unário lógico de negação- nega o valor de uma expressão booleana;
+
+
 ## Declaração de variáveis
 Variavél é uma identificação de um espaço em memória utilizado pelo nosso programa.Seguindo as convenções em linguagem de programação, toda variável é composta por: tipo de dados + identificação + valor atribuído.<br>
 
@@ -158,7 +173,8 @@ contatenacao = 1+1+1+ **"1"** ;//31<br>
 contatenacao = 1+ **"1"** +1+1;//1111<br>
 concatenacao = 1+ **"1"** +1+ **"1"** ;// 1111<br>
 concatenacao = **"1"** +1+1+1;//1111<br>
-concatenacao = **"1"** +(1+1+1);//13
+concatenacao = **"1"** +(1+1+1);//13<br><br>
+Obs: ao clicar no ponto vermelho a esquerda do codigo(ponto de interrupção) eu posso exevutar linha por linha de codigo.
 
 ## Organizando arquivos
 A medida que nosso sistema vai evoluindo surgem novos arquivos(código fonte) em nossa estrutura de arquivos do projeto. Isso exige que seja realizado uma organização destes arquivos através de pacotes(packages).<br>
