@@ -212,5 +212,20 @@ byte,short,int e long => Tipos inteiros<br>
 int é o mais usados<br>
 float,double => Tipos fracionarios<br>
 double é o mais usado<br>
+
+## Continuando
+Abaixo converte o numero para negativo<br>
+![convertenegativo](https://github.com/user-attachments/assets/438d639c-78ea-49a2-b7ab-bc12648fb405)
+<br>
+Abaixo incrementa<br>
+![incrementar](https://github.com/user-attachments/assets/d53c7fb0-7e01-4311-8e6b-5870e12f487c)
+<br>
+Abaixo decrementa<br>
+![decrementar](https://github.com/user-attachments/assets/93e27fc3-aed6-410a-9114-75d840da8be4)
+<br>
+Forma mais rapida de incrementar ou decrementar
+![incrementar2](https://github.com/user-attachments/assets/a0bc7561-c220-4a1a-8152-f3c93bf8b0fb)
+
+
 </div>
 
