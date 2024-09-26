@@ -232,6 +232,18 @@ Diferente "!" em valor booleano<br>
 Mudar valor de variavel booleana<br>
 ![mudarvalor](https://github.com/user-attachments/assets/e0b0d523-a3d5-44da-b780-18d3eac32172)
 
+## Ternário
+
+O operador de condição ternária é uma forma resumida para definir uma condição e escolher por um dentre dois valores.Você deve pensar numa consição ternária como se fosse uma condição IF normal, porém, de uma forma em que toda a sua estrutura estará escrita numa única linha.
+<br>
+O operador ternário é representado pelos símbolos ?: utilizados na seguinte estrutura de sintaxe:<br><br>
+<Expressão Condicional> ? <Caso condição seja true> : <Caso condição seja false><br>
+EX:<br>
+![AeBverdadeiro](https://github.com/user-attachments/assets/587d9e56-b14b-4377-9c9a-d0abd1db7ab8)
+<br>
+![AeBTernario](https://github.com/user-attachments/assets/deb30e3d-ff72-435b-bbb5-a22e46c14026)
+<br>
+
 
 </div>
 
