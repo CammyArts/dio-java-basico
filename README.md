@@ -223,8 +223,14 @@ Abaixo incrementa<br>
 Abaixo decrementa<br>
 ![decrementar](https://github.com/user-attachments/assets/93e27fc3-aed6-410a-9114-75d840da8be4)
 <br>
-Forma mais rapida de incrementar ou decrementar
+Forma mais rapida de incrementar ou decrementar <br>
 ![incrementar2](https://github.com/user-attachments/assets/a0bc7561-c220-4a1a-8152-f3c93bf8b0fb)
+<br>
+Diferente "!" em valor booleano<br>
+![diferente](https://github.com/user-attachments/assets/27feecd8-a03d-4e3a-ba34-13bd670504cf)
+<br>
+Mudar valor de variavel booleana<br>
+![mudarvalor](https://github.com/user-attachments/assets/e0b0d523-a3d5-44da-b780-18d3eac32172)
 
 
 </div>
