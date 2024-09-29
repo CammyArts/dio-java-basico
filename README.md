@@ -159,7 +159,9 @@ double peso = 68.5;<br>
 char sexo = "M";<br>
 boolean doadorOrgao = false;<br>
 Date dataNascimento = new Date();<br>
-Aritméticos<br>
+
+## Operadores Aritméticos
+
 O operador aritmético é utilizado para realizar operações matemáticas entre valores numéricos, podendo se tornar ou não uma expressão mais complexa.<br>
 São eles: + - * /<br>
 Ex:<br>
@@ -232,7 +234,7 @@ Diferente "!" em valor booleano<br>
 Mudar valor de variavel booleana<br>
 ![mudarvalor](https://github.com/user-attachments/assets/e0b0d523-a3d5-44da-b780-18d3eac32172)
 
-## Ternário
+## Operadores Ternários
 
 O operador de condição ternária é uma forma resumida para definir uma condição e escolher por um dentre dois valores.Você deve pensar numa consição ternária como se fosse uma condição IF normal, porém, de uma forma em que toda a sua estrutura estará escrita numa única linha.
 <br>
@@ -242,7 +244,42 @@ EX:<br>
 ![AeBverdadeiro](https://github.com/user-attachments/assets/587d9e56-b14b-4377-9c9a-d0abd1db7ab8)
 <br>
 ![AeBTernario](https://github.com/user-attachments/assets/deb30e3d-ff72-435b-bbb5-a22e46c14026)
+<br><br>
+No caso abaixo eu coloquei de forma bem mais simplificada determinando a variavel com boolean
 <br>
+![terciariobooleano](https://github.com/user-attachments/assets/36f36270-081a-4ad7-a104-8232d76d0fab)
+<br>
+![terciarioint](https://github.com/user-attachments/assets/242133d4-978e-492b-8710-6247bc4c6d28)
+<br>
+
+## Operadores Relacionais
+
+Resumindo avaliam relações e condições<br>
+Os operadores relacionais avaliam a relação entre duas variáveis ou expressões.Neste caso, mais precisamente, definem se o operando à esquerda é igual, diferente, menor, menor ou igual, maior ou maior ou igual ao da direita, retornando um valor booleano como resultado.
+<br>
+![booleano2](https://github.com/user-attachments/assets/a518be2d-1800-45df-b5c1-2f5df25bfa40)
+<br>
+Abaixo eu comparei dois nomes usando equals() ao inves de ==
+<br>
+![comparandonomes](https://github.com/user-attachments/assets/e8ff8c2d-da2b-47d0-b141-986bb475f674)
+<br>
+![nomeumnomedois](https://github.com/user-attachments/assets/39b70808-a9e7-4175-9458-ef75838bb68a)
+<br>
+Para numeros utilizamos operadores relacionais e para objetos utilizamos "equals"
+<br>
+
+## Operadores Lógicos
+
+Os operadores lógicos representam o recursoque nos permite criar expressões lógicas ,aiores a partir da junção de duas ou mais expressões.
+<br><br>
+&& Operador "E"<br>
+|| Operador lógico "OU"
+<br>
+![booleano3](https://github.com/user-attachments/assets/2555aef0-f5d9-47c5-a8d5-eb7b5bb1b556)
+<br>
+![booleano4](https://github.com/user-attachments/assets/a5d58e6d-d429-433b-9f0b-48536e66b35a)
+<br>
+
 
 
 </div>
